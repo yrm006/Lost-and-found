@@ -1,3 +1,4 @@
+//% gcc laf.c && ./a.out  
 #include <stdio.h>
 
 
